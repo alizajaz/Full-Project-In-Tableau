@@ -1,3 +1,6 @@
+https://public.tableau.com/app/profile/aliza.tamang/viz/AirbnbFullProjectInTableauTobeContinued/Dashboard1
+
+
 # Full-Project-In-Tableau Airbnb Listing 2016 Dataset
 Download from here. https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 Tableau Public>Microsoft Excel>choose file>open>sheet1>Drag Listing>open Listing from dropdown menu (end of listing)>Calendar and review
